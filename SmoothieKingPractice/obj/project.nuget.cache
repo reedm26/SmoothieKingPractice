@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlNsrkKqp/MYWk+Mv30NsQ4u7QSbkmYdqdtBMMmwpFSRfM+JBcF4pbZnKHX0YGSqDOYtRpYT8iCEW/O5ENSL5w==",
+  "success": true,
+  "projectFilePath": "/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/SmoothieKingPractice.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcelreed/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/marcelreed/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/marcelreed/.nuget/packages/system.text.json/6.0.2/system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

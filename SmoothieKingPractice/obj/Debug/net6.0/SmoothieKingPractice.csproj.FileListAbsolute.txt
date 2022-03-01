@@ -1,0 +1,17 @@
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/SmoothieKingPractice
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/SmoothieKingPractice.deps.json
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/SmoothieKingPractice.runtimeconfig.json
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/SmoothieKingPractice.dll
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/SmoothieKingPractice.pdb
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/bin/Debug/net6.0/System.Text.Json.dll
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.csproj.AssemblyReference.cache
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.AssemblyInfoInputs.cache
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.AssemblyInfo.cs
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.csproj.CoreCompileInputs.cache
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.csproj.CopyComplete
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.dll
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/refint/SmoothieKingPractice.dll
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.pdb
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/SmoothieKingPractice.genruntimeconfig.cache
+/Users/marcelreed/source/allata/smoothieKing/SmoothieKingPractice/SmoothieKingPractice/obj/Debug/net6.0/ref/SmoothieKingPractice.dll
