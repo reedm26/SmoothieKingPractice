@@ -1,10 +1,23 @@
-
-  {
-    "Id": 1234,
-    "Country": "Cayman Islands",
-    "ConversionRate": 0.41,
-    "StoreNumber": 7
-  }
+{
+  "createdBy": "Application Name",
+  "createdOn": "2022-02-01T22:43:05",
+  "lastUpdatedOn": "2022-02-01T22:43:05",
+  "api": "www.whatever.com/getdata",
+  "currencies": [{
+    "currencyName": "EURO",
+    "currencySymbol": "EU",
+    "conversionRate": "1.2",
+    "enabled": "false"
+  },
+    {
+      "currencyName": "Cayman island",
+      "currencySymbol": "KYD",
+      "conversionRate": "1.5",
+      "enabled": "true"
+    }
+  ]
+}
+  
   
 
  
